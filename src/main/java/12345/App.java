@@ -1,7 +1,7 @@
 
 
 /**
- * Hello world test!
+ * Hello world!
  *
  */
 public class App 
